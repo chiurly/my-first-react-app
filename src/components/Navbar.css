@@ -1,0 +1,16 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 16px;
+    height: 48px;
+    background-color: rgb(31, 39, 47);
+    color: white;
+    font-size: 16px;
+}
+
+.navbar>img {
+    height: 32px;
+    margin-right: 8px;
+    pointer-events: none;
+}

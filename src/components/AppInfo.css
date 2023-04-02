@@ -1,0 +1,12 @@
+.app-info {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: 256px;
+}
+
+.app-info>p {
+    margin: 0px;
+    font-size: 16px;
+    color: rgb(223, 223, 223);
+}
